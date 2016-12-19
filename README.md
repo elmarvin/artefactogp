@@ -1,2 +1,0 @@
-# artefactogp
-Artefacto de GP
