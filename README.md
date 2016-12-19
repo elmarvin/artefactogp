@@ -222,7 +222,7 @@ Error en la clasificación:
        "images_processed": 1 
     }
 
-# OpenCV
+## OpenCV
 
 http://opencv.org/platforms/android.html
 http://www.genbeta.com/actualidad/openface-un-nuevo-software-de-reconocimiento-facial-de-codigo-abierto
