@@ -182,8 +182,7 @@ Resultados pruebas del Clasificador:
 
 Error en la clasificación:
 
-![image5](https://d2mxuefqeaa7sj.cloudfront.net/s_B146BD2BFDD59D6C74722D29295B6CD4C95C7E7FB07BA1C501A0A7D1AB5B19AE_1477801127097_rosita11.jpg)
-![image6](https://d2mxuefqeaa7sj.cloudfront.net/s_B146BD2BFDD59D6C74722D29295B6CD4C95C7E7FB07BA1C501A0A7D1AB5B19AE_1477801127115_grace.jpg)
+![image5](https://d2mxuefqeaa7sj.cloudfront.net/s_E93218D914AEFD241EB1B462D33BAA794B02F22FCE5E7C6ECED9BEEAD6B6558D_1482174081338_file.png)
 
     curl -X POST -F "images_file=@/home/elmarvin/bluemixpruebas/grace.jpg" -F "parameters=@/home/elmarvin/bluemixpruebas/mypar
     ams.json" "https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?api_key={f9c27480a6049322777c1b034607993bc568781c}&version=2016-05
@@ -222,4 +221,3 @@ Error en la clasificación:
        ], 
        "images_processed": 1 
     }
-
